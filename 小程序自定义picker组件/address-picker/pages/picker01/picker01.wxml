@@ -1,0 +1,5 @@
+<!--pages/picker01/picker01.wxml-->
+<import src="chooseaddress.wxml" />
+
+
+<template is="chooseaddress" data="{{addressvalue,hiddenmask,provinces,citys,countys,pickershow,swipercurrent}}" />

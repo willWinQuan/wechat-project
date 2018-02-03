@@ -1,0 +1,50 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.6.0",
+	"appid": "touristappid",
+	"projectname": "%E8%87%AA%E5%AE%9A%E4%B9%89picker-01",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 1,
+			"list": [
+				{
+					"id": -1,
+					"name": "test",
+					"pathName": "pages/test/test",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "picker",
+					"pathName": "pages/picker01/picker01",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "picker02",
+					"pathName": "pages/picker02/picker02",
+					"query": ""
+				}
+			]
+		}
+	}
+}
